@@ -8,7 +8,7 @@ setup(
     name = 'git-calendar',
     version = git_calendar.__version__,
     description = 'Show a github-like calendar in your git repository.',
-    long_description = open('README.md').read(),
+    long_description = open('README').read(),
 
     author = git_calendar.__arthor__,
     url = git_calendar.__url__,
